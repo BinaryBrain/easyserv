@@ -1,6 +1,6 @@
 // EDIT ME PLEASE
 // --------------
-var site = "/home/user/web/"
+var site = "C:/Users/sacha_000/Projets/Web/bsfwire/www/"
 var port = 8567
 // --------------
 

@@ -1,5 +1,5 @@
 var path = process.argv[2] || process.cwd()
-var port = process.argv[3] || 8800
+var port = process.argv[3] || 3000
 
 var express = require('express')
 var app = express()
